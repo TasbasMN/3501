@@ -17,21 +17,8 @@
                 "file": "test2.md"
               }
             }
-          },
-          {
-            "id": "da5af7a1914d48f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "testtt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testtt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testtt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,6 +153,10 @@
   },
   "active": "7fb69e68b17c3e82",
   "lastOpenFiles": [
+    "original_contrib.md",
+    "my_abstract.md",
+    "metodlar.md",
+    "amaçlar.md",
     "testo.md",
     "testtt.md",
     "test2.md"
