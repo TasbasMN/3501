@@ -17,8 +17,45 @@
                 "file": "test2.md"
               }
             }
+          },
+          {
+            "id": "95a059ad362b3a6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "merged/1.1. Konunun Önemi, Projenin Özgün Değeri ve Araştırma Sorusu veya Hipotezi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3b07280685babab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "merged/1.1. Konunun Önemi, Projenin Özgün Değeri ve Araştırma Sorusu veya Hipotezi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e21541e4987b74c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "merged/2. YÖNTEM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "merged/1.1. Konunun Önemi, Projenin Özgün Değeri ve Araştırma Sorusu veya Hipotezi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "merged/1.1. Konunun Önemi, Projenin Özgün Değeri ve Araştırma Sorusu veya Hipotezi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testtt.md"
+                "file": "merged/1.1. Konunun Önemi, Projenin Özgün Değeri ve Araştırma Sorusu veya Hipotezi.md"
               }
             }
           },
@@ -151,13 +190,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fb69e68b17c3e82",
+  "active": "e3b07280685babab",
   "lastOpenFiles": [
-    "original_contrib.md",
-    "my_abstract.md",
-    "metodlar.md",
-    "amaçlar.md",
+    "nazo/original_contrib.md",
+    "nazo/amaçlar.md",
+    "merged/1.1. Konunun Önemi, Projenin Özgün Değeri ve Araştırma Sorusu veya Hipotezi.md",
+    "hilmi/özgün değer.md",
+    "hilmi/amaç hedef.md",
+    "merged abstract.md",
+    "merged/2. YÖNTEM.md",
+    "merged/1.2. Amaç ve Hedefler.md",
+    "merged/Untitled",
+    "merged",
+    "README.md",
     "testo.md",
+    "nazo",
+    "hilmi/metod.md",
+    "hilmi",
+    "nazo/my_abstract.md",
+    "nazo/metodlar.md",
     "testtt.md",
     "test2.md"
   ]
