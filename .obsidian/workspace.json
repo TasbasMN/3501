@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "merged abstract.md",
+                "file": "nazo/özgün değer.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "merged abstract.md",
+                "file": "nazo/özgün değer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "merged abstract.md",
+                "file": "nazo/özgün değer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "merged abstract.md"
+                "file": "nazo/özgün değer.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "95a059ad362b3a6a",
   "lastOpenFiles": [
+    "merged abstract.md",
     "nazo/todo.md",
     "nazo/özgün değer.md",
     "nazo/original_contrib.md",
@@ -177,7 +178,6 @@
     "nazo/amaçlar.md",
     "hilmi/özgün değer.md",
     "hilmi/amaç hedef.md",
-    "merged abstract.md",
     "merged/2. YÖNTEM.md",
     "merged/1.2. Amaç ve Hedefler.md",
     "merged/Untitled",
