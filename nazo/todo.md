@@ -1,0 +1,5 @@
+tekrar bak:
+
+deepmirtar
+
+miraw
