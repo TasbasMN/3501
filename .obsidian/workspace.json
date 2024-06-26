@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "95a059ad362b3a6a",
+            "id": "231d5f6ec396d47b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nazo/özgün değer.md",
+                "file": "merged/1.2. Amaç ve Hedefler.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a1ba3c7e87bbdeb3",
+            "id": "e0ffe2e48e2c1315",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nazo/original_contrib.md",
+                "file": "merged/2. YÖNTEM.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nazo/özgün değer.md",
+                "file": "merged/1.2. Amaç ve Hedefler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nazo/özgün değer.md",
+                "file": "merged/1.2. Amaç ve Hedefler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nazo/özgün değer.md"
+                "file": "merged/1.2. Amaç ve Hedefler.md"
               }
             }
           },
@@ -166,20 +166,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95a059ad362b3a6a",
+  "active": "231d5f6ec396d47b",
   "lastOpenFiles": [
-    "merged abstract.md",
-    "nazo/todo.md",
+    "merged/2. YÖNTEM.md",
+    "merged/1.1. Konunun Önemi, Projenin Özgün Değeri ve Araştırma Sorusu veya Hipotezi.md",
+    "nazo/metodlar.md",
+    "merged/1.2. Amaç ve Hedefler.md",
+    "nazo/amaçlar.md",
     "nazo/özgün değer.md",
     "nazo/original_contrib.md",
-    "merged/1.1. Konunun Önemi, Projenin Özgün Değeri ve Araştırma Sorusu veya Hipotezi.md",
+    "merged abstract.md",
+    "nazo/todo.md",
     "nazo/my_abstract.md",
-    "nazo/metodlar.md",
-    "nazo/amaçlar.md",
     "hilmi/özgün değer.md",
     "hilmi/amaç hedef.md",
-    "merged/2. YÖNTEM.md",
-    "merged/1.2. Amaç ve Hedefler.md",
     "merged/Untitled",
     "merged",
     "README.md",
